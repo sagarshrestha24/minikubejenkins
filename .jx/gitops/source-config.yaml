@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: nodeappfinal
+    - name: pythonci
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
